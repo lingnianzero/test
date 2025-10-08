@@ -6,3 +6,5 @@ creating a new branch is quick and simple
 add merge
 test
 GUI appears！
+
+this is a avalon 1st line！
