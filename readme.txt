@@ -8,3 +8,4 @@ test
 GUI appears！
 
 this is a avalon 1st line！
+oops！ not avalon，its laptop!
